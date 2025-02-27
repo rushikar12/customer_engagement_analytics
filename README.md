@@ -3,6 +3,8 @@
 ## Project Overview
 ShopEasy, an online retail business, has experienced reduced customer engagement and declining conversion rates despite increased marketing investments. This project was initiated to diagnose these issues and provide actionable recommendations to improve marketing performance. The analysis covers diverse data points, including campaign metrics, customer reviews, and social media engagement, to drive strategic insights and enhance overall performance.
 
+## Dashboard
+Link : https://app.powerbi.com/view?r=eyJrIjoiNmFiOTEyZjItOTE3Zi00N2FjLWFiNzEtYTU5ZGY2YjU4YTBkIiwidCI6IjQ4NWRjNjkyLWQwMGEtNGFkMi05ZTdiLTBhZmU2OTg5NjRiOCJ9
 
 ## Objectives and Goals
 - **Increase Conversion Rates:**  
