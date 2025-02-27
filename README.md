@@ -48,7 +48,8 @@ ShopEasy, an online retail business, has experienced reduced customer engagement
 Below are the key dashboards created for this project. Each screenshot is explained in detail to highlight the insights derived from the analysis.
 
 ### Dashboard 1: Conversion Rate Analysis
-**Screenshot:** ![Conversion Rate Dashboard](./path/to/db1.png)  
+**Screenshot:** ![Conversion Rate Dashboard](https://github.com/user-attachments/assets/6ab6db72-62c5-43b9-948b-7a28df513118)
+
 **Explanation:**  
 This dashboard displays the monthly conversion rates. Key insights include:
 - **Seasonal Peaks:** January shows an impressive conversion rate of 18.5%, driven largely by the strong performance of Ski Boots.
@@ -56,24 +57,27 @@ This dashboard displays the monthly conversion rates. Key insights include:
 - **Trend Analysis:** The visualization helps pinpoint periods requiring targeted interventions to boost conversions.
 
 ### Dashboard 2: Customer Engagement Metrics
-**Screenshot:** ![Customer Engagement Dashboard](./path/to/db2.png)  
-**Explanation:**  
+**Screenshot:** ![Customer Engagement Dashboard](https://github.com/user-attachments/assets/d2d026ef-728d-49f3-8e79-583265faa761)  
+**Explanation:**
+
 This dashboard focuses on customer engagement across various channels:
 - **Engagement Trends:** It tracks metrics such as views, clicks, and likes, revealing that while blog content drives the most views, overall engagement has declined in the latter half of the year.
 - **Actionable Insights:** The low interaction rates suggest a need for more engaging content and stronger calls to action.
 
 ### Dashboard 3: Customer Feedback & Sentiment Analysis
-**Screenshot:** ![Customer Feedback Dashboard](./path/to/db3.png)  
+**Screenshot:** ![Customer Feedback Dashboard](https://github.com/user-attachments/assets/8e383986-fd2d-43e9-84ff-6925435a3b97)  
 **Explanation:**  
 This dashboard provides an analysis of customer reviews and sentiment:
+
 - **Rating Distribution:** Shows that the majority of customer reviews are positive (with a high concentration of 4 and 5-star ratings), but the overall average rating is 3.7—below the target of 4.0.
 - **Sentiment Breakdown:** Highlights that while positive sentiment dominates, there is room for improvement in addressing mixed and negative feedback.
 - **Improvement Areas:** The dashboard pinpoints specific areas where enhancements in products or services can convert mixed feedback into positive outcomes.
 
 ### Dashboard 4: Overall Marketing Performance
-**Screenshot:** ![Overall Marketing Performance Dashboard](./path/to/db4.png)  
+**Screenshot:** ![Overall Marketing Performance Dashboard](https://github.com/user-attachments/assets/396299aa-a35a-40be-8869-68dec4a6852f)  
 **Explanation:**  
 This comprehensive dashboard offers a holistic view of all key metrics:
+
 - **Integrated Metrics:** Combines conversion rates, engagement data, and feedback scores into a single, cohesive view.
 - **Comparative Analysis:** Enables side-by-side comparisons of different performance indicators, facilitating a better understanding of how various factors interrelate.
 - **Strategic Overview:** Supports decision-making by providing a complete picture of the current marketing performance.
